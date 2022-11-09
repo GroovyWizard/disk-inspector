@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 gtk = { version = "0.5.1", package = "gtk4" }
+dirs = "4.0"
